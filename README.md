@@ -1,2 +1,2 @@
 # gitskills
-my name is wang lao
+Creating a new branch is quick AND simple.
